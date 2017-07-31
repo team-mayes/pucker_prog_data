@@ -1,0 +1,3 @@
+REFERENCE,B3LYP,APFD,BMK,M06L,PBEPBE,AM1,PM3,PM3MM,PM6
+4c1_3s1-oh1,4c1_1s3-e3,4c1_1s3-e3,4c1_os2-oh5,4c1_1s3-e3,4c1_3s1-oh1,4c1_5s1-e1,4c1_1s3-e3,4c1_1s3-e3,4c1_1s3-e3
+4c1_os2-oh5,4c1_3s1-oh1,4c1_os2-oh5,4c1_3s1-oh1,4c1_os2-oh5,4c1_os2-oh5,4c1_1s5-e5,4c1_1s5-4h5,4c1_1s5-4h5,4c1_bo3-e3

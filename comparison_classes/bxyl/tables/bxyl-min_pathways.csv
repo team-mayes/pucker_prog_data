@@ -1,0 +1,4 @@
+REFERENCE,B3LYP,APFD,DFTB,AM1,PM3,PM3MM,PM6
+4c1_2so-e3,4c1_2so-4h3,4c1_2so-4h3,4c1_1s3-4e,4c1_os2-4h5,4c1_2so-4e,4c1_2so-4e,4c1_2so-4e
+4c1_2so-2h3,4c1_2so-e3,4c1_1s3-4h3,4c1_os2-oh5,4c1_1s5-4h5,4c1_1s5-4h5,4c1_1s5-4h5,4c1_1s5-4h5
+4c1_2so-4h3,4c1_2so-2h3,4c1_2so-e3,4c1_1s5-4h5,4c1_2so-4e,4c1_b25-4h5,4c1_b25-4h5,4c1_14b-4h5
