@@ -1,4 +1,4 @@
-method,REFERENCE,B3LYP,APFD,DFTB,AM1,PM3,PM3MM,PM6
+method,REF,B3LYP,APFD,DFTB,AM1,PM3,PM3MM,PM6
 2h1,n/a,n/a,n/a,n/a,n/a,0.05425,0.05425,n/a
 4h3,0.03425,0.03554,0.03066,n/a,0.01225,n/a,n/a,n/a
 2e,n/a,n/a,n/a,n/a,n/a,0.06317,0.06317,n/a
