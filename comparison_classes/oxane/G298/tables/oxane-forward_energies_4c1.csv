@@ -1,0 +1,10 @@
+LM1,TS,LM2,REF,B3LYP,APFD,BMK,M06L,PBEPBE,DFTB,DFTB3,AM1,PM3,PM3MM,PM6
+4c1,e1,5s1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,4.555,n/a,n/a,n/a
+4c1,e5,1s5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,4.555,n/a,n/a,n/a
+4c1,oh1,3s1,10.2,9.64,10.579,10.17,10.159,9.587,7.287,n/a,n/a,n/a,n/a,n/a
+4c1,e3,1s3,10.5,9.307,9.705,n/a,9.794,n/a,6.925,n/a,n/a,3.984,3.983,n/a
+4c1,oh5,os2,10.2,9.649,10.572,10.141,10.121,9.596,7.29,n/a,n/a,n/a,n/a,n/a
+4c1,e3,2so,10.5,n/a,n/a,n/a,n/a,n/a,6.925,5.659,n/a,n/a,n/a,n/a
+4c1,2h1,5s1,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,4.286,4.286,4.368
+4c1,4h5,1s5,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,4.286,4.286,4.368
+4c1,e3,bo3,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,4.066
