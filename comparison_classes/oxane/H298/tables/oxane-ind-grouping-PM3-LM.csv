@@ -1,0 +1,9 @@
+File Name,new_cluster_group,boltzmann_weighting,cluster_group_H298 (Hartrees)
+oxane-oh5-freeze_pm3-optall_pm3.log,0,1.0,0.0
+oxane-2so-freeze_pm3-optall_pm3.log,13,1.0,3.2467315659999945
+oxane-1s3-freeze_pm3-optall_pm3.log,14,1.0,3.2467315659999945
+oxane-1s5-freeze_pm3-optall_pm3.log,18,1.0,3.374115893
+oxane-5s1-freeze_pm3-optall_pm3.log,19,1.0,3.374115893
+oxane-b25-freeze_pm3-optall_pm3.log,23,1.0,3.2467315659999945
+oxane-25b-freeze_pm3-TS_pm3-ircf-pm3.log,24,1.0,3.2467315659999945
+oxane-5ho-freeze_pm3-optall_pm3.log,37,1.0,0.0

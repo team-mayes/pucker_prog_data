@@ -1,0 +1,13 @@
+File Name,new_cluster_group,boltzmann_weighting,cluster_group_H298 (Hartrees)
+oxane-4e-freeze_m06l-TS_m06l.log,10,1.0,10.14493800299738
+oxane-e5-freeze_m06l-TS_m06l.log,11,1.0,10.527090983995619
+oxane-e1-freeze_m06l-TS_m06l.log,12,1.0,10.536503619007524
+oxane-bo3-freeze_m06l-TS_m06l.log,16,1.0,6.011536220017646
+oxane-25b-freeze_m06l-TS_m06l.log,17,1.0,6.412514471004027
+oxane-1s5-freeze_m06l-TS_m06l.log,18,1.0,6.436359813015163
+oxane-5s1-freeze_m06l-TS_m06l.log,19,1.0,6.432594759024669
+oxane-b25-freeze_m06l-TS_m06l.log,20,1.0,6.416907034028607
+oxane-o3b-freeze_m06l-TS_m06l.log,21,1.0,6.012163729016063
+oxane-1e-freeze_m06l-TS_m06l.log,25,1.0,10.536503619007524
+oxane-5e-freeze_m06l-TS_m06l.log,26,1.0,10.52834600202812
+oxane-e4-freeze_m06l-TS_m06l.log,27,1.0,10.14493800299738
