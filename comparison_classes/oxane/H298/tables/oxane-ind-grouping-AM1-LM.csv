@@ -1,9 +1,9 @@
 File Name,new_cluster_group,boltzmann_weighting,cluster_group_H298 (Hartrees)
-oxane-4h3-freeze_am1-optall_am1.log,0,1.0,0.0
-oxane-1s3-freeze_am1-TS_am1-ircr-am1.log,13,1.0,2.8338306439999994
-oxane-1s3-freeze_am1-TS_am1-ircf-am1.log,14,1.0,2.8338306439999994
-oxane-3h2-freeze_am1-TS_am1-ircf-am1.log,18,1.0,2.662520686999998
-oxane-5s1-freeze_am1-optall_am1.log,19,1.0,2.662520686999998
-oxane-3s1-freeze_am1-TS_am1-ircf-am1.log,23,1.0,2.8338306439999994
-oxane-3s1-freeze_am1-TS_am1-ircr-am1.log,24,1.0,2.8338306439999994
-oxane-e4-freeze_am1-optall_am1.log,37,1.0,0.0
+oxane-4h3-freeze_am1-optall_am1.log,4c1,1.0,0.0
+oxane-1s3-freeze_am1-TS_am1-ircr-am1.log,2so,1.0,2.8338306439999994
+oxane-1s3-freeze_am1-TS_am1-ircf-am1.log,1s3,1.0,2.8338306439999994
+oxane-3h2-freeze_am1-TS_am1-ircf-am1.log,1s5,1.0,2.662520686999998
+oxane-5s1-freeze_am1-optall_am1.log,5s1,1.0,2.662520686999998
+oxane-3s1-freeze_am1-TS_am1-ircf-am1.log,os2,1.0,2.8338306439999994
+oxane-3s1-freeze_am1-TS_am1-ircr-am1.log,3s1,1.0,2.8338306439999994
+oxane-e4-freeze_am1-optall_am1.log,1c4,1.0,0.0

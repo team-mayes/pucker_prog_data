@@ -1,9 +1,9 @@
 File Name,new_cluster_group,boltzmann_weighting,cluster_group_H298 (Hartrees)
-oxane-oe-freeze_pm6-optall_pm6.log,0,1.0,0.0
-oxane-14b-freeze_pm6-TS_pm6-ircf-pm6.log,15,0.5,2.865833603000001
-oxane-14b-freeze_pm6-TS_pm6-ircr-pm6.log,15,0.5,2.865833603000001
-oxane-b25-freeze_pm6-optall_pm6.log,18,1.0,2.5796894990000023
-oxane-25b-freeze_pm6-optall_pm6.log,19,1.0,2.5796894990000023
-oxane-b14-freeze_pm6-TS_pm6-ircr-pm6.log,21,0.5002649553240165,2.865833603000001
-oxane-3h2-freeze_pm6-TS_pm6-ircf-pm6.log,21,0.49973504467598356,2.866461112000002
-oxane-3e-freeze_pm6-optall_pm6.log,37,1.0,0.0
+oxane-oe-freeze_pm6-optall_pm6.log,4c1,1.0,0.0
+oxane-14b-freeze_pm6-TS_pm6-ircf-pm6.log,bo3,0.5,2.865833603000001
+oxane-14b-freeze_pm6-TS_pm6-ircr-pm6.log,bo3,0.5,2.865833603000001
+oxane-b25-freeze_pm6-optall_pm6.log,1s5,1.0,2.5796894990000023
+oxane-25b-freeze_pm6-optall_pm6.log,5s1,1.0,2.5796894990000023
+oxane-b14-freeze_pm6-TS_pm6-ircr-pm6.log,3ob,0.5002649553240165,2.865833603000001
+oxane-3h2-freeze_pm6-TS_pm6-ircf-pm6.log,3ob,0.49973504467598356,2.866461112000002
+oxane-3e-freeze_pm6-optall_pm6.log,1c4,1.0,0.0

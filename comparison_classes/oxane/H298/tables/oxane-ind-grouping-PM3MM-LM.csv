@@ -1,9 +1,9 @@
 File Name,new_cluster_group,boltzmann_weighting,cluster_group_H298 (Hartrees)
-oxane-oh5-freeze_pm3mm-optall_pm3mm.log,0,1.0,0.0
-oxane-b14-freeze_pm3mm-TS_pm3mm-ircr_pm3mm-minIRC_pm3mm.log,13,1.0,3.2467315659999945
-oxane-1s5-freeze_pm3mm-TS_pm3mm-ircf_pm3mm-minIRC_pm3mm.log,14,1.0,3.2467315659999945
-oxane-3s1-freeze_pm3mm-TS_pm3mm-ircr_pm3mm-minIRC_pm3mm.log,18,1.0,3.3747434020000004
-oxane-5s1-freeze_pm3mm-optall_pm3mm.log,19,1.0,3.374115893
-oxane-b25-freeze_pm3mm-optall_pm3mm.log,23,1.0,3.2467315659999945
-oxane-o3b-freeze_pm3mm-optall_pm3mm.log,24,1.0,3.2467315659999945
-oxane-5ho-freeze_pm3mm-optall_pm3mm.log,37,1.0,0.0
+oxane-oh5-freeze_pm3mm-optall_pm3mm.log,4c1,1.0,0.0
+oxane-b14-freeze_pm3mm-TS_pm3mm-ircr_pm3mm-minIRC_pm3mm.log,2so,1.0,3.2467315659999945
+oxane-1s5-freeze_pm3mm-TS_pm3mm-ircf_pm3mm-minIRC_pm3mm.log,1s3,1.0,3.2467315659999945
+oxane-3s1-freeze_pm3mm-TS_pm3mm-ircr_pm3mm-minIRC_pm3mm.log,1s5,1.0,3.3747434020000004
+oxane-5s1-freeze_pm3mm-optall_pm3mm.log,5s1,1.0,3.374115893
+oxane-b25-freeze_pm3mm-optall_pm3mm.log,os2,1.0,3.2467315659999945
+oxane-o3b-freeze_pm3mm-optall_pm3mm.log,3s1,1.0,3.2467315659999945
+oxane-5ho-freeze_pm3mm-optall_pm3mm.log,1c4,1.0,0.0

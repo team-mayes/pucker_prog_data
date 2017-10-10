@@ -1,13 +1,13 @@
 File Name,new_cluster_group,boltzmann_weighting,cluster_group_H298 (Hartrees)
-oxane-4e-freeze_b3lyp-TS_b3lyp.log,10,1.0,9.672423726013262
-oxane-oh5-freeze_b3lyp-TS_b3lyp.log,11,1.0,10.004375986995568
-oxane-oe-freeze_b3lyp-TS_b3lyp.log,12,1.0,10.003748477997151
-oxane-bo3-freeze_b3lyp-TS_b3lyp.log,16,1.0,6.081189719020137
-oxane-b14-freeze_b3lyp-TS_b3lyp.log,17,1.0,6.552448978007424
-oxane-1s5-freeze_b3lyp-TS_b3lyp.log,18,1.0,6.549938942013761
-oxane-5s1-freeze_b3lyp-TS_b3lyp.log,19,1.0,6.549938942013761
-oxane-14b-freeze_b3lyp-TS_b3lyp.log,20,1.0,6.552448978007424
-oxane-o3b-freeze_b3lyp-TS_b3lyp.log,21,1.0,6.081189719020137
-oxane-eo-freeze_b3lyp-TS_b3lyp.log,25,1.0,10.003748477997151
-oxane-1c4-freeze_b3lyp-TS_b3lyp.log,26,1.0,10.005003495993982
-oxane-e4-freeze_b3lyp-TS_b3lyp.log,27,1.0,9.672423726013262
+oxane-4e-freeze_b3lyp-TS_b3lyp.log,e3,1.0,9.672423726013262
+oxane-oh5-freeze_b3lyp-TS_b3lyp.log,oh5,1.0,10.004375986995568
+oxane-oe-freeze_b3lyp-TS_b3lyp.log,oh1,1.0,10.003748477997151
+oxane-bo3-freeze_b3lyp-TS_b3lyp.log,bo3,1.0,6.081189719020137
+oxane-b14-freeze_b3lyp-TS_b3lyp.log,25b,1.0,6.552448978007424
+oxane-1s5-freeze_b3lyp-TS_b3lyp.log,14b,1.0,6.549938942013761
+oxane-5s1-freeze_b3lyp-TS_b3lyp.log,b14,1.0,6.549938942013761
+oxane-14b-freeze_b3lyp-TS_b3lyp.log,b25,1.0,6.552448978007424
+oxane-o3b-freeze_b3lyp-TS_b3lyp.log,3ob,1.0,6.081189719020137
+oxane-eo-freeze_b3lyp-TS_b3lyp.log,1ho,1.0,10.003748477997151
+oxane-1c4-freeze_b3lyp-TS_b3lyp.log,5ho,1.0,10.005003495993982
+oxane-e4-freeze_b3lyp-TS_b3lyp.log,3e,1.0,9.672423726013262

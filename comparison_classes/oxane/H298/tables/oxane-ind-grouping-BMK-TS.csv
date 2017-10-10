@@ -1,13 +1,13 @@
 File Name,new_cluster_group,boltzmann_weighting,cluster_group_H298 (Hartrees)
-oxane-4e-freeze_bmk-TS_bmk.log,10,1.0,10.340093302004036
-oxane-e1-freeze_bmk-TS_bmk.log,11,1.0,10.44865235897964
-oxane-2h1-freeze_bmk-TS_bmk.log,12,1.0,10.434219651980408
-oxane-bo3-freeze_bmk-TS_bmk.log,16,1.0,6.157118308006785
-oxane-25b-freeze_bmk-TS_bmk.log,17,1.0,6.867458495996836
-oxane-1s3-freeze_bmk-TS_bmk.log,18,1.0,6.904481526974702
-oxane-3s1-freeze_bmk-TS_bmk.log,19,1.0,6.905736545007203
-oxane-b25-freeze_bmk-TS_bmk.log,20,1.0,6.874988603977824
-oxane-o3b-freeze_bmk-TS_bmk.log,21,1.0,6.157118308006785
-oxane-1h2-freeze_bmk-TS_bmk.log,25,1.0,10.433592142981993
-oxane-1c4-freeze_bmk-TS_bmk.log,26,1.0,10.443004777993899
-oxane-e4-freeze_bmk-TS_bmk.log,27,1.0,10.340093302004036
+oxane-4e-freeze_bmk-TS_bmk.log,e3,1.0,10.340093302004036
+oxane-e1-freeze_bmk-TS_bmk.log,oh5,1.0,10.44865235897964
+oxane-2h1-freeze_bmk-TS_bmk.log,oh1,1.0,10.434219651980408
+oxane-bo3-freeze_bmk-TS_bmk.log,bo3,1.0,6.157118308006785
+oxane-25b-freeze_bmk-TS_bmk.log,25b,1.0,6.867458495996836
+oxane-1s3-freeze_bmk-TS_bmk.log,14b,1.0,6.904481526974702
+oxane-3s1-freeze_bmk-TS_bmk.log,b14,1.0,6.905736545007203
+oxane-b25-freeze_bmk-TS_bmk.log,b25,1.0,6.874988603977824
+oxane-o3b-freeze_bmk-TS_bmk.log,3ob,1.0,6.157118308006785
+oxane-1h2-freeze_bmk-TS_bmk.log,1ho,1.0,10.433592142981993
+oxane-1c4-freeze_bmk-TS_bmk.log,5ho,1.0,10.443004777993899
+oxane-e4-freeze_bmk-TS_bmk.log,3e,1.0,10.340093302004036

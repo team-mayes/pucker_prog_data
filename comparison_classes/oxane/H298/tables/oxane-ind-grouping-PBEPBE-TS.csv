@@ -1,13 +1,13 @@
 File Name,new_cluster_group,boltzmann_weighting,cluster_group_H298 (Hartrees)
-oxane-4e-freeze_pbe-TS_pbe.log,10,1.0,9.995590861017748
-oxane-e5-freeze_pbe-TS_pbe.log,11,1.0,10.077167031025805
-oxane-oh1-freeze_pbe-TS_pbe.log,12,1.0,10.075912012993305
-oxane-bo3-freeze_pbe-TS_pbe.log,16,1.0,6.044794197005018
-oxane-5s1-freeze_pbe-TS_pbe.log,17,1.0,6.6792057960084215
-oxane-1c4-freeze_pbe-TS_pbe.log,18,1.0,6.680460814005253
-oxane-b14-freeze_pbe-TS_pbe.log,19,1.0,6.679833305006837
-oxane-4c1-freeze_pbe-TS_pbe.log,20,1.0,6.680460814005253
-oxane-o3b-freeze_pbe-TS_pbe.log,21,1.0,6.044794197005018
-oxane-1ho-freeze_pbe-TS_pbe.log,25,1.0,10.075912012993305
-oxane-5e-freeze_pbe-TS_pbe.log,26,1.0,10.077167031025805
-oxane-e4-freeze_pbe-TS_pbe.log,27,1.0,9.995590861017748
+oxane-4e-freeze_pbe-TS_pbe.log,e3,1.0,9.995590861017748
+oxane-e5-freeze_pbe-TS_pbe.log,oh5,1.0,10.077167031025805
+oxane-oh1-freeze_pbe-TS_pbe.log,oh1,1.0,10.075912012993305
+oxane-bo3-freeze_pbe-TS_pbe.log,bo3,1.0,6.044794197005018
+oxane-5s1-freeze_pbe-TS_pbe.log,25b,1.0,6.6792057960084215
+oxane-1c4-freeze_pbe-TS_pbe.log,14b,1.0,6.680460814005253
+oxane-b14-freeze_pbe-TS_pbe.log,b14,1.0,6.679833305006837
+oxane-4c1-freeze_pbe-TS_pbe.log,b25,1.0,6.680460814005253
+oxane-o3b-freeze_pbe-TS_pbe.log,3ob,1.0,6.044794197005018
+oxane-1ho-freeze_pbe-TS_pbe.log,1ho,1.0,10.075912012993305
+oxane-5e-freeze_pbe-TS_pbe.log,5ho,1.0,10.077167031025805
+oxane-e4-freeze_pbe-TS_pbe.log,3e,1.0,9.995590861017748

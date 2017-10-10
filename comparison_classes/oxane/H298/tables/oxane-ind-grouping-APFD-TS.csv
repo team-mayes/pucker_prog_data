@@ -1,13 +1,13 @@
 File Name,new_cluster_group,boltzmann_weighting,cluster_group_H298 (Hartrees)
-oxane-4e-freeze_APFD-TS_APFD.log,10,1.0,10.078422048986967
-oxane-4c1-freeze_APFD-TS_APFD.log,11,1.0,10.895438766993044
-oxane-oh1-freeze_APFD-TS_APFD.log,12,1.0,10.894183748996213
-oxane-bo3-freeze_APFD-TS_APFD.log,16,1.0,6.29015021599194
-oxane-1c4-freeze_APFD-TS_APFD.log,17,1.0,6.839848099995206
-oxane-1s5-freeze_APFD-TS_APFD.log,18,1.0,6.841730626990453
-oxane-b14-freeze_APFD-TS_APFD.log,19,1.0,6.840475608993621
-oxane-os2-freeze_APFD-TS_APFD.log,20,1.0,6.837965572999959
-oxane-o3b-freeze_APFD-TS_APFD.log,21,1.0,6.29015021599194
-oxane-1ho-freeze_APFD-TS_APFD.log,25,1.0,10.894183748996213
-oxane-5ho-freeze_APFD-TS_APFD.log,26,1.0,10.893556239997798
-oxane-e4-freeze_APFD-TS_APFD.log,27,1.0,10.078422048986967
+oxane-4e-freeze_APFD-TS_APFD.log,e3,1.0,10.078422048986967
+oxane-4c1-freeze_APFD-TS_APFD.log,oh5,1.0,10.895438766993044
+oxane-oh1-freeze_APFD-TS_APFD.log,oh1,1.0,10.894183748996213
+oxane-bo3-freeze_APFD-TS_APFD.log,bo3,1.0,6.29015021599194
+oxane-1c4-freeze_APFD-TS_APFD.log,25b,1.0,6.839848099995206
+oxane-1s5-freeze_APFD-TS_APFD.log,14b,1.0,6.841730626990453
+oxane-b14-freeze_APFD-TS_APFD.log,b14,1.0,6.840475608993621
+oxane-os2-freeze_APFD-TS_APFD.log,b25,1.0,6.837965572999959
+oxane-o3b-freeze_APFD-TS_APFD.log,3ob,1.0,6.29015021599194
+oxane-1ho-freeze_APFD-TS_APFD.log,1ho,1.0,10.894183748996213
+oxane-5ho-freeze_APFD-TS_APFD.log,5ho,1.0,10.893556239997798
+oxane-e4-freeze_APFD-TS_APFD.log,3e,1.0,10.078422048986967

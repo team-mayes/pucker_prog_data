@@ -1,11 +1,11 @@
 File Name,new_cluster_group,boltzmann_weighting,cluster_group_H298 (Hartrees)
-oxane-10-freeze_dftb3-TS_dftb3.log,10,1.0,6.376746458000699
-oxane-19-freeze_dftb3-TS_dftb3.log,16,1.0,3.344622970000454
-oxane-20-freeze_dftb3-TS_dftb3.log,17,1.0,3.2988148130001815
-oxane-15-freeze_dftb3-TS_dftb3.log,18,1.0,3.2818720700006
-oxane-16-freeze_dftb3-TS_dftb3.log,19,1.0,3.2818720700006
-oxane-18-freeze_dftb3-TS_dftb3.log,20,1.0,3.293167232001064
-oxane-17-freeze_dftb3-TS_dftb3.log,21,1.0,3.3439954610009233
-oxane-09-freeze_dftb3-TS_dftb3.log,27,0.30867898088562334,6.440124867000084
-oxane-14-freeze_dftb3-TS_dftb3.log,27,0.33741945745736696,6.387414111000519
-oxane-11-freeze_dftb3-TS_dftb3.log,27,0.3539015616570096,6.359176206000473
+oxane-10-freeze_dftb3-TS_dftb3.log,e3,1.0,6.376746458000699
+oxane-19-freeze_dftb3-TS_dftb3.log,bo3,1.0,3.344622970000454
+oxane-20-freeze_dftb3-TS_dftb3.log,25b,1.0,3.2988148130001815
+oxane-15-freeze_dftb3-TS_dftb3.log,14b,1.0,3.2818720700006
+oxane-16-freeze_dftb3-TS_dftb3.log,b14,1.0,3.2818720700006
+oxane-18-freeze_dftb3-TS_dftb3.log,b25,1.0,3.293167232001064
+oxane-17-freeze_dftb3-TS_dftb3.log,3ob,1.0,3.3439954610009233
+oxane-09-freeze_dftb3-TS_dftb3.log,3e,0.30867898088562334,6.440124867000084
+oxane-14-freeze_dftb3-TS_dftb3.log,3e,0.33741945745736696,6.387414111000519
+oxane-11-freeze_dftb3-TS_dftb3.log,3e,0.3539015616570096,6.359176206000473
